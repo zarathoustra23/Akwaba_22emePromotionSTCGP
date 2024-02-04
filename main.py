@@ -6,7 +6,7 @@ from list_parrain import parrain
 import random 
 import time
 import os
-
+#transformer les dictionnaires en tableau
 parrainT = [j for j in parrain.values()]
 filleulT= [i for i in filleul.values()]
 #melange des tableaux aleatoirement
